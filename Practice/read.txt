@@ -1,1 +1,3 @@
-name
+Name: Abdullah
+ID: 19301247
+Department: CS
